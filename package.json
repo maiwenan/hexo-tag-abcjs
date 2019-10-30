@@ -1,0 +1,14 @@
+{
+  "name": "hexo-tag-abcjs",
+  "version": "1.0.0",
+  "description": "Helps you to render standard music notation on your blog posts",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "maiwenan <maiwenan@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "abcjs": "^5.9.1"
+  }
+}
