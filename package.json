@@ -9,6 +9,9 @@
   "author": "maiwenan <maiwenan@gmail.com>",
   "license": "MIT",
   "dependencies": {
+    "lodash": "^4.17.15"
+  },
+  "peerDependencies": {
     "abcjs": "^5.9.1"
   }
 }
